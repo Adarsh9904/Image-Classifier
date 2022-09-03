@@ -50,9 +50,5 @@ The classes for y_train and y_test are:
 ### Result
 
 The accuracies of the four ML algorithms, we just explored for our CIFAR-10 dataset, can be summarized as follows.
-
-Random Forest Classifier shows the best performance with 47% accuracy followed by KNN with 34% accuracy, NB with 30% accuracy, and Decision Tree with 27% accuracy. Thus, Random Forest exhibits the best performance and Decision Tree the worst.
-
-However, all the Machine learning algorithms perform poorly as indicated by the accuracies. The highest is just 47% while Deep learning algorithms outsmart them exceptionally with accuracies mostly exceeding 90%.
-
+Random Forest Classifier shows the best performance with 47% accuracy followed by KNN with 34% accuracy, NB with 30% accuracy, and Decision Tree with 27% accuracy. Thus, Random Forest exhibits the best performance and Decision Tree the worst. However, all the Machine learning algorithms perform poorly as indicated by the accuracies. The highest is just 47% while Deep learning algorithms outsmart them exceptionally with accuracies mostly exceeding 90%.
 Although the accuracies obtained aren't high, still it helps provide a basic understanding of how different ML algorithms can be used for image classification in Python.
